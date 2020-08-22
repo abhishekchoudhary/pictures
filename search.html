@@ -2,7 +2,14 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-59773743-1');</script><div class="container"><header><a class="logo" href="https://abhishekchoudhary.github.io/pictures/">Abhishek&#x27;s Pictures</a><div class="top"><nav class="navbar js-navbar"><button class="navbar__toggle js-navbar__toggle" aria-expanded="false">Menu</button><ul class="navbar__menu"><li><a href="https://abhishekchoudhary.com/blog/" target="_self">Blog</a></li><li><a href="https://abhishekchoudhary.com/" target="_self">Back to abhishekchoudhary.com</a></li></ul></nav><div class="top__search"><form action="https://abhishekchoudhary.github.io/pictures/search.html" class="search"><input type="search" name="q" placeholder="search..."></form></div></div></header><main><div class="hero u-wrapper"><h1>Search</h1></div><div class="u-wrapper search-page"><form action="https://abhishekchoudhary.github.io/pictures/search.html"><input type="search" name="q" placeholder="search..." class="search-page__input"></form><script>(function () {
+  gtag('config', 'UA-59773743-1');
+  
+  var captureOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
+  }</script><div class="container"><header><a class="logo" href="https://abhishekchoudhary.github.io/pictures/">Abhishek&#x27;s Pictures</a><div class="top"><nav class="navbar js-navbar"><button class="navbar__toggle js-navbar__toggle" aria-expanded="false">Menu</button><ul class="navbar__menu"><li><a href="https://abhishekchoudhary.com/blog/" target="_self">Blog</a></li><li><a href="https://abhishekchoudhary.com/" target="_self">Back to abhishekchoudhary.com</a></li></ul></nav><div class="top__search"><form action="https://abhishekchoudhary.github.io/pictures/search.html" class="search"><input type="search" name="q" placeholder="search..."></form></div></div></header><main><div class="hero u-wrapper"><h1>Search</h1></div><div class="u-wrapper search-page"><form action="https://abhishekchoudhary.github.io/pictures/search.html"><input type="search" name="q" placeholder="search..." class="search-page__input"></form><script>(function () {
 						var cx = '';
 						var gcse = document.createElement('script');
 						gcse.type  = 'text/javascript';
