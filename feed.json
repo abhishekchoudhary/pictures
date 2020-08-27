@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Abhishek&#x27;s Album",
     "description": "",
-    "home_page_url": "https://abhishekchoudhary.com/pictures",
-    "feed_url": "https://abhishekchoudhary.com/pictures/feed.json",
+    "home_page_url": "https://abhishekchoudhary.github.io/pictures",
+    "feed_url": "https://abhishekchoudhary.github.io/pictures/feed.json",
     "user_comment": "",
     "author": {
         "name": "Abhishek Choudhary"
     },
     "items": [
         {
-            "id": "https://abhishekchoudhary.com/pictures/bangalore-pt1.html",
-            "url": "https://abhishekchoudhary.com/pictures/bangalore-pt1.html",
+            "id": "https://abhishekchoudhary.github.io/pictures/bangalore-pt1.html",
+            "url": "https://abhishekchoudhary.github.io/pictures/bangalore-pt1.html",
             "title": "Bangalore pt.1",
             "summary": "First plane window from the first smartphone. Somewhere over Madhya Pradesh, 2012Internship&hellip;",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991.jpeg\" ><img src=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991-thumbnail.jpeg\" alt=\"first-plane-window\" width=\"768\" height=\"432\"></a>\n<figcaption class=\"gallery-description\">First plane window from the first smartphone. Somewhere over Madhya Pradesh, 2012</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0.jpeg\" ><img src=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0-thumbnail.jpeg\" alt=\"althea-work\" width=\"768\" height=\"432\"></a>\n<figcaption class=\"gallery-description\">Internship wizardry. Bangalore, 2012</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg\" ><img src=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C-thumbnail.jpeg\" alt=\"bangalore-skies\" width=\"768\" height=\"432\"></a>\n<figcaption class=\"gallery-description\">Skies from the office. Bangalore, 2012</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c.jpeg\" ><img src=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c-thumbnail.jpeg\" alt=\"internship-collage\" width=\"640\" height=\"360\"></a>\n<figcaption class=\"gallery-description\">Althea collage. Bangalore, 2012</figcaption>\n</figure>\n</div>",
-            "image": "https://abhishekchoudhary.com/pictures/media/posts/1/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991.jpeg\" ><img src=\"https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991-thumbnail.jpeg\" alt=\"first-plane-window\" width=\"768\" height=\"432\"></a>\n<figcaption class=\"gallery-description\">First plane window from the first smartphone. Somewhere over Madhya Pradesh, 2012</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0.jpeg\" ><img src=\"https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0-thumbnail.jpeg\" alt=\"althea-work\" width=\"768\" height=\"432\"></a>\n<figcaption class=\"gallery-description\">Internship wizardry. Bangalore, 2012</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg\" ><img src=\"https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C-thumbnail.jpeg\" alt=\"bangalore-skies\" width=\"768\" height=\"432\"></a>\n<figcaption class=\"gallery-description\">Skies from the office. Bangalore, 2012</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c.jpeg\" ><img src=\"https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c-thumbnail.jpeg\" alt=\"internship-collage\" width=\"640\" height=\"360\"></a>\n<figcaption class=\"gallery-description\">Althea collage. Bangalore, 2012</figcaption>\n</figure>\n</div>",
+            "image": "https://abhishekchoudhary.github.io/pictures/media/posts/1/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg",
             "author": {
                 "name": "Abhishek Choudhary"
             },

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://abhishekchoudhary.com/pictures/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://abhishekchoudhary.github.io/pictures/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://abhishekchoudhary.com/pictures/</loc>
+<loc>https://abhishekchoudhary.github.io/pictures/</loc>
 </url>
 <url>
-<loc>https://abhishekchoudhary.com/pictures/bangalore-pt1.html</loc>
+<loc>https://abhishekchoudhary.github.io/pictures/bangalore-pt1.html</loc>
 <lastmod>2020-08-26T10:08:42+05:30</lastmod>
 <image:image>
-<image:loc>https://abhishekchoudhary.com/pictures/media/posts/1/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg</image:loc>
+<image:loc>https://abhishekchoudhary.github.io/pictures/media/posts/1/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991-thumbnail.jpeg</image:loc>
+<image:loc>https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[first-plane-window]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0-thumbnail.jpeg</image:loc>
+<image:loc>https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[althea-work]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C-thumbnail.jpeg</image:loc>
+<image:loc>https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[bangalore-skies]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c-thumbnail.jpeg</image:loc>
+<image:loc>https://abhishekchoudhary.github.io/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[internship-collage]]></image:title>
 </image:image>
 </url>
