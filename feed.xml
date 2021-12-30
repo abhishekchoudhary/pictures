@@ -3,7 +3,7 @@
     <title>Abhishek&#x27;s Album</title>
     <link href="https://abhishekchoudhary.com/pictures/feed.xml" rel="self" />
     <link href="https://abhishekchoudhary.com/pictures" />
-    <updated>2020-08-27T23:10:28+05:30</updated>
+    <updated>2020-08-26T10:08:42+05:30</updated>
     <author>
         <name>Abhishek Choudhary</name>
     </author>
@@ -22,26 +22,26 @@
             <summary>
                 <![CDATA[
                         <img src="https://abhishekchoudhary.com/pictures/media/posts/1/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg" alt="" />
-                    First plane window from the first smartphone. Somewhere over Madhya Pradesh, 2012Internship&hellip;
+                     First plane window from the first smartphone. Somewhere over Madhya Pradesh, 2012 Internship wizardry. Bangalore, 2012 Skies from the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://abhishekchoudhary.com/pictures/media/posts/1/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991.jpeg" ><img src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991-thumbnail.jpeg" alt="first-plane-window" width="768" height="432"></a>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991.jpeg" data-size="2560x1440"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991-thumbnail.jpeg" alt="first-plane-window" width="768" height="432"></a>
 <figcaption class="gallery-description">First plane window from the first smartphone. Somewhere over Madhya Pradesh, 2012</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0.jpeg" ><img src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0-thumbnail.jpeg" alt="althea-work" width="768" height="432"></a>
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0.jpeg" data-size="2560x1440"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0-thumbnail.jpeg" alt="althea-work" width="768" height="432"></a>
 <figcaption class="gallery-description">Internship wizardry. Bangalore, 2012</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg" ><img src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C-thumbnail.jpeg" alt="bangalore-skies" width="768" height="432"></a>
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg" data-size="2560x1440"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C-thumbnail.jpeg" alt="bangalore-skies" width="768" height="432"></a>
 <figcaption class="gallery-description">Skies from the office. Bangalore, 2012</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c.jpeg" ><img src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c-thumbnail.jpeg" alt="internship-collage" width="640" height="360"></a>
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c.jpeg" data-size="640x360"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c-thumbnail.jpeg" alt="internship-collage" width="640" height="360"></a>
 <figcaption class="gallery-description">Althea collage. Bangalore, 2012</figcaption>
 </figure>
-</div>
+</div></div>
             ]]>
         </content>
     </entry>
