@@ -3,45 +3,59 @@
     <title>Abhishek&#x27;s Album</title>
     <link href="https://abhishekchoudhary.com/pictures/feed.xml" rel="self" />
     <link href="https://abhishekchoudhary.com/pictures" />
-    <updated>2020-08-26T10:08:42+05:30</updated>
+    <updated>2022-02-05T03:28:41+05:30</updated>
     <author>
         <name>Abhishek Choudhary</name>
     </author>
     <id>https://abhishekchoudhary.com/pictures</id>
 
     <entry>
-        <title>Bangalore pt.1</title>
+        <title>McLeod Ganj and Dharamshala, 2013</title>
         <author>
             <name>Abhishek Choudhary</name>
         </author>
-        <link href="https://abhishekchoudhary.com/pictures/bangalore-pt1.html"/>
-        <id>https://abhishekchoudhary.com/pictures/bangalore-pt1.html</id>
+        <link href="https://abhishekchoudhary.com/pictures/mcleod-ganj-and-dharamshala-2013.html"/>
+        <id>https://abhishekchoudhary.com/pictures/mcleod-ganj-and-dharamshala-2013.html</id>
+            <category term="Mountains"/>
             <category term="Cities"/>
 
-        <updated>2020-08-26T10:08:42+05:30</updated>
+        <updated>2022-02-05T03:28:41+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://abhishekchoudhary.com/pictures/media/posts/1/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg" alt="" />
-                     First plane window from the first smartphone. Somewhere over Madhya Pradesh, 2012 Internship wizardry. Bangalore, 2012 Skies from the&hellip;
+                        <img src="https://abhishekchoudhary.com/pictures/media/posts/2/DSC00232.jpeg" alt="" />
+                     The kind of name that ironically tells you that a lot of thought went into it 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://abhishekchoudhary.com/pictures/media/posts/1/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991.jpeg" data-size="2560x1440"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991-thumbnail.jpeg" alt="first-plane-window" width="768" height="432"></a>
-<figcaption class="gallery-description">First plane window from the first smartphone. Somewhere over Madhya Pradesh, 2012</figcaption>
+                    <img src="https://abhishekchoudhary.com/pictures/media/posts/2/DSC00232.jpeg" alt="" />
+                <figure class="post__image post__image--full" ><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/2/DSC00232-2.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00232-2-xs.jpeg 300w ,https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00232-2-sm.jpeg 480w ,https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00232-2-md.jpeg 768w"  alt="Welcome to McLeod Ganj!" width="5184" height="2920">
+<figcaption >The kind of name that ironically tells you that a lot of thought went into it</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0.jpeg" data-size="2560x1440"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0-thumbnail.jpeg" alt="althea-work" width="768" height="432"></a>
-<figcaption class="gallery-description">Internship wizardry. Bangalore, 2012</figcaption>
+<p> </p>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/2/DSC00246-2.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00246-2-xs.jpeg 300w ,https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00246-2-sm.jpeg 480w ,https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00246-2-md.jpeg 768w"  alt="Last light of the first day" width="5184" height="2920">
+<figcaption >Last light of the first day</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg" data-size="2560x1440"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C-thumbnail.jpeg" alt="bangalore-skies" width="768" height="432"></a>
-<figcaption class="gallery-description">Skies from the office. Bangalore, 2012</figcaption>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/2/gallery/DSC00236.jpeg" data-size="5184x2920"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/2/gallery/DSC00236-thumbnail.jpeg" alt="Public sentiment" width="768" height="433"></a>
+<figcaption>I want to believe</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c.jpeg" data-size="640x360"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c-thumbnail.jpeg" alt="internship-collage" width="640" height="360"></a>
-<figcaption class="gallery-description">Althea collage. Bangalore, 2012</figcaption>
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/2/gallery/DSC00254.jpeg" data-size="5184x2920"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/2/gallery/DSC00254-thumbnail.jpeg" alt="Buddhist prayer columns" width="768" height="433"></a>
+<figcaption>Poetic, but a poem I don't know much about</figcaption>
 </figure>
 </div></div>
+<figure class="post__image post__image--full" ><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/2/DSC00248.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00248-xs.jpeg 300w ,https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00248-sm.jpeg 480w ,https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00248-md.jpeg 768w"  alt="First stars of the night" width="5184" height="2920">
+<figcaption >First stars of the night and maybe still the best picture I've ever taken</figcaption>
+</figure>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/2/DSC00264.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00264-xs.jpeg 300w ,https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00264-sm.jpeg 480w ,https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00264-md.jpeg 768w"  alt="The highest cricket ground in the world" width="5184" height="2920">
+<figcaption >A cricket stadium like no other</figcaption>
+</figure>
+<figure class="post__image post__image--full" ><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/2/DSC00269.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00269-xs.jpeg 300w ,https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00269-sm.jpeg 480w ,https://abhishekchoudhary.com/pictures/media/posts/2/responsive/DSC00269-md.jpeg 768w"  alt="Getting lost in the streets of Dharamshala" width="5184" height="2920">
+<figcaption >Getting lost in the streets of Dharamshala</figcaption>
+</figure>
+<p> </p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
