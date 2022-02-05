@@ -3,7 +3,7 @@
     <title>Abhishek&#x27;s Album</title>
     <link href="https://abhishekchoudhary.com/pictures/feed.xml" rel="self" />
     <link href="https://abhishekchoudhary.com/pictures" />
-    <updated>2022-02-05T20:22:33+05:30</updated>
+    <updated>2022-02-05T20:26:59+05:30</updated>
     <author>
         <name>Abhishek Choudhary</name>
     </author>
@@ -25,7 +25,7 @@
             <category term="2014"/>
             <category term="2013"/>
 
-        <updated>2022-02-05T20:22:33+05:30</updated>
+        <updated>2022-02-05T20:26:59+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://abhishekchoudhary.com/pictures/media/posts/5/DSC00047-1.jpeg" alt="" />
@@ -53,7 +53,7 @@
 <figure class="post__image post__image--wide" ><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/5/DSC00054.jpeg" alt="Ghaziabad under construction" width="5184" height="2920">
 <figcaption >The Delhi I actually met</figcaption>
 </figure>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="2">
 <figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00079.jpeg" data-size="5184x2920"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00079-thumbnail.jpeg" alt="Mohan nagar water tank" width="768" height="433"></a>
 <figcaption>The view from my first apartment</figcaption>
 </figure>
@@ -62,6 +62,9 @@
 </figure>
 <figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00061.jpeg" data-size="5184x2920"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00061-thumbnail.jpeg" alt="Colour isolation experiments with my first camera" width="768" height="433"></a>
 <figcaption>New money, new camera, new effects</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00201-2.jpeg" data-size="5184x2920"><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00201-2-thumbnail.jpeg" alt="Factories in living areas in Delhi" width="768" height="433"></a>
+<figcaption>Say what you will, the pollution lends unmatched colours to the sky</figcaption>
 </figure>
 </div></div>
 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="2">
@@ -72,9 +75,8 @@
 <figcaption>Cannot imagine a better picture of the time - end of college, 2014</figcaption>
 </figure>
 </div></div>
-<figure class="post__image post__image--full" ><img loading="lazy" src="https://abhishekchoudhary.com/pictures/media/posts/5/DSC00201.jpeg" alt="Factories around Delhi" width="5184" height="2920">
-<figcaption >Sunsetting this post with a sunset - say what you will, the pollution lends unmatched colours to the sky</figcaption>
-</figure>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://abhishekchoudhary.com/pictures/media/posts/5/DSC00134.jpeg" alt="Out of focus night" width="5184" height="2920"></figure>
+<p> </p>
 <p> </p>
 <p> </p>
             ]]>
