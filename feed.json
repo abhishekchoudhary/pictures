@@ -11,6 +11,29 @@
     },
     "items": [
         {
+            "id": "https://abhishekchoudhary.com/pictures/delhi-and-ncr-2014-and-before.html",
+            "url": "https://abhishekchoudhary.com/pictures/delhi-and-ncr-2014-and-before.html",
+            "title": "Life in Delhi and Ghaziabad, 2014",
+            "summary": " The Delhi I imagined going to ",
+            "content_html": "<figure class=\"post__image post__image--full\" ><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/DSC00047-2.jpeg\" alt=\"Rajpath\" width=\"5184\" height=\"2920\">\n<figcaption >The Delhi I imagined going to</figcaption>\n</figure>\n<p> </p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00044.jpeg\" data-size=\"5184x2920\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00044-thumbnail.jpeg\" alt=\"India Gate\" width=\"768\" height=\"433\"></a>\n<figcaption>The Delhi I imagined going to</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00045.jpeg\" data-size=\"5184x2920\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00045-thumbnail.jpeg\" alt=\"Lutyens Gardens\" width=\"768\" height=\"433\"></a>\n<figcaption>The Delhi I imagined going to</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00046.jpeg\" data-size=\"5184x2920\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00046-thumbnail.jpeg\" alt=\"Lutyens Fountains\" width=\"768\" height=\"433\"></a>\n<figcaption>The Delhi I imagined going to</figcaption>\n</figure>\n</div></div>\n<figure class=\"post__image post__image--wide\" ><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/DSC00054.jpeg\" alt=\"Ghaziabad under construction\" width=\"5184\" height=\"2920\">\n<figcaption >The Delhi I actually met</figcaption>\n</figure>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00079.jpeg\" data-size=\"5184x2920\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00079-thumbnail.jpeg\" alt=\"Mohan nagar water tank\" width=\"768\" height=\"433\"></a>\n<figcaption>The view from my first apartment</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00190.jpeg\" data-size=\"5184x2920\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00190-thumbnail.jpeg\" alt=\"Factories in living areas in Delhi\" width=\"768\" height=\"433\"></a>\n<figcaption>The hub of good health I lived next to</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00061.jpeg\" data-size=\"5184x2920\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00061-thumbnail.jpeg\" alt=\"Colour isolation experiments with my first camera\" width=\"768\" height=\"433\"></a>\n<figcaption>New money, new camera, new effects</figcaption>\n</figure>\n</div></div>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00420.jpeg\" data-size=\"4992x2812\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00420-thumbnail.jpeg\" alt=\"Modi Nagar water tank\" width=\"768\" height=\"433\"></a>\n<figcaption>Cannot imagine a better picture of the place - end of college, 2014</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00428.jpeg\" data-size=\"5184x2920\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/gallery/DSC00428-thumbnail.jpeg\" alt=\"SRM University Graduation, 2014\" width=\"768\" height=\"433\"></a>\n<figcaption>Cannot imagine a better picture of the time - end of college, 2014</figcaption>\n</figure>\n</div></div>\n<figure class=\"post__image post__image--full\" ><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/5/DSC00201.jpeg\" alt=\"Factories around Delhi\" width=\"5184\" height=\"2920\">\n<figcaption >Sunsetting this post with a sunset - say what you will, the pollution lends unmatched colours to the sky</figcaption>\n</figure>\n<p> </p>\n<p> </p>",
+            "image": "https://abhishekchoudhary.com/pictures/media/posts/5/DSC00047.jpeg",
+            "author": {
+                "name": "Abhishek Choudhary"
+            },
+            "tags": [
+                   "Uttar Pradesh",
+                   "Modi Nagar",
+                   "Life",
+                   "Ghaziabad",
+                   "Delhi",
+                   "Cities",
+                   "2014",
+                   "2013"
+            ],
+            "date_published": "2022-02-05T19:54:49+05:30",
+            "date_modified": "2022-02-05T19:54:49+05:30"
+        },
+        {
             "id": "https://abhishekchoudhary.com/pictures/pushkar-and-ajmer-2013.html",
             "url": "https://abhishekchoudhary.com/pictures/pushkar-and-ajmer-2013.html",
             "title": "Pushkar and Ajmer, 2013",
@@ -56,6 +79,25 @@
             ],
             "date_published": "2022-02-05T02:42:27+05:30",
             "date_modified": "2022-02-05T15:00:01+05:30"
+        },
+        {
+            "id": "https://abhishekchoudhary.com/pictures/bangalore-2012.html",
+            "url": "https://abhishekchoudhary.com/pictures/bangalore-2012.html",
+            "title": "Bangalore, 2012",
+            "summary": " First plane window from the first smartphone. Somewhere over Madhya Pradesh, 2012 Internship wizardry. Bangalore, 2012 Skies from the&hellip;",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991.jpeg\" data-size=\"2560x1440\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991-thumbnail.jpeg\" alt=\"first-plane-window\" width=\"768\" height=\"432\"></a>\n<figcaption>First plane window from the first smartphone. Somewhere over Madhya Pradesh, 2012</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0.jpeg\" data-size=\"2560x1440\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0-thumbnail.jpeg\" alt=\"althea-work\" width=\"768\" height=\"432\"></a>\n<figcaption>Internship wizardry. Bangalore, 2012</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg\" data-size=\"2560x1440\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C-thumbnail.jpeg\" alt=\"bangalore-skies\" width=\"768\" height=\"432\"></a>\n<figcaption>Skies from the office. Bangalore, 2012</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c.jpeg\" data-size=\"640x360\"><img loading=\"lazy\" src=\"https://abhishekchoudhary.com/pictures/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c-thumbnail.jpeg\" alt=\"internship-collage\" width=\"640\" height=\"360\"></a>\n<figcaption>Althea collage. Bangalore, 2012</figcaption>\n</figure>\n</div></div>",
+            "image": "https://abhishekchoudhary.com/pictures/media/posts/1/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg",
+            "author": {
+                "name": "Abhishek Choudhary"
+            },
+            "tags": [
+                   "Karnataka",
+                   "India",
+                   "Cities",
+                   "2012"
+            ],
+            "date_published": "2020-08-26T09:39:37+05:30",
+            "date_modified": "2022-02-05T19:20:41+05:30"
         }
     ]
 }
