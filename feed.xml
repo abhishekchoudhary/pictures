@@ -3,7 +3,7 @@
     <title>Abhishek&#x27;s Album</title>
     <link href="https://abhishekchoudhary.com/pictures/feed.xml" rel="self" />
     <link href="https://abhishekchoudhary.com/pictures" />
-    <updated>2022-02-05T20:26:59+05:30</updated>
+    <updated>2022-02-06T10:17:41+05:30</updated>
     <author>
         <name>Abhishek Choudhary</name>
     </author>
@@ -229,12 +229,13 @@
         </author>
         <link href="https://abhishekchoudhary.com/pictures/bangalore-2012.html"/>
         <id>https://abhishekchoudhary.com/pictures/bangalore-2012.html</id>
+            <category term="Life"/>
             <category term="Karnataka"/>
             <category term="India"/>
             <category term="Cities"/>
             <category term="2012"/>
 
-        <updated>2022-02-05T19:20:41+05:30</updated>
+        <updated>2022-02-06T10:17:41+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://abhishekchoudhary.com/pictures/media/posts/1/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg" alt="" />
